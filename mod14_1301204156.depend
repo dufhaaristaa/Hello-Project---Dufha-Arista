@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641630270 source:d:\struktur data\mod14_1301204156\graph.cpp
+	"graph.h"
+
+1641630261 d:\struktur data\mod14_1301204156\graph.h
+	<iostream>
+
+1641630276 source:d:\struktur data\mod14_1301204156\main.cpp
+	"graph.h"
+
